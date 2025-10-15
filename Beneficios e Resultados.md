@@ -1,4 +1,4 @@
-## Benefícios e Resultados
+## 💡 Benefícios e Resultados
 
 ## Automação ponta a ponta: da infraestrutura à configuração.
 
