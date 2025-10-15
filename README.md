@@ -38,3 +38,6 @@ O diagrama ilustra o engenheiro DevOps orquestrando a configuração via Ansible
 
 👨‍💻 Autor
 Arlindo Ramos
+
+Linkedin: https://www.linkedin.com/in/arlindo-ramos/
+
