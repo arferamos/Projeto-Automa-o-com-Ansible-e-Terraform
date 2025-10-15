@@ -38,8 +38,3 @@ O diagrama ilustra o engenheiro DevOps orquestrando a configuração via Ansible
 
 👨‍💻 Autor
 Arlindo Ramos
-☁️ Cloud & DevOps Architect | Infraestrutura como Código (IaC) | Automação Cloud
-🔗 linkedin.com/in/arlindo-ramos
-📧 Contato: arlindoramos.cloud@gmail.com
-
-💬 Automação é o pilar da eficiência em ambientes cloud-native.
